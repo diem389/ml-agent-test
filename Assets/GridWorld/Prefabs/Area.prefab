@@ -374,7 +374,7 @@ MonoBehaviour:
     VectorActionSize: 05000000
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
-  m_Model: {fileID: 5022602860645237092, guid: 7268b967df02da24ca608dc3990a765c, type: 3}
+  m_Model: {fileID: 5022602860645237092, guid: 7e3cda8faabdb0642858d5388fb34215, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: GridWorld
